@@ -1,0 +1,54 @@
+
+body{
+  background-color: rgb(212, 208, 230);
+  color: white;
+
+}
+header {
+  height: 70px;
+  background-color: rgb(8, 54, 69);
+}
+
+main {
+  margin: 0 auto;
+}
+.k_container {
+  height: calc(100vh - 70px);
+  margin: 0 auto;
+}
+
+.upper{
+  text-transform: uppercase;
+}
+.logo {
+  font-size: 30px;
+  font-weight: 600;
+}
+.describe_text{
+  font-size: 20px;
+  margin-right: 15px;
+}
+.k-form{
+  width: 200px;
+  margin-bottom: 0;
+}
+.k_contol{
+  height: 30px;
+  padding-top: 0;
+  padding-bottom: 0;
+}
+
+.k_card{
+  width: calc(100vw / 8);
+  height: 110px;
+  margin: 15px;
+  justify-content: center;
+  align-items: center;
+  border-radius: 15px;
+  box-shadow: 5px 5px 12px #504a4a;
+  color:black;
+  text-transform: uppercase;
+}
+.fas{
+  font-size: 25px;
+}
