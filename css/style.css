@@ -39,9 +39,9 @@ main {
 }
 
 .k_card{
-  width: calc(100vw / 8);
+   width: 190px; 
   height: 110px;
-  margin: 15px;
+  margin: 1% 15px;
   justify-content: center;
   align-items: center;
   border-radius: 15px;
@@ -53,6 +53,4 @@ main {
   font-size: 25px;
 }
 
-.animal{
-  color: orange;
-}
+@media 
